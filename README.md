@@ -1,11 +1,11 @@
-# RAG based chatbot with a document lifecycle functionality
-Manage the knowledge of your AI in real time with the document lifecycle functionality
+# RAG-based chatbot with a document lifecycle functionality
+Manage the knowledge of your AI in real-time with the document lifecycle functionality
 See response evaluations 
-Seperate admin panel to check backend status, manage files.
+Separate admin panel to check backend status, and manage files.
 
 ## To run this application, follow these steps:
 
-Step 01: set your GROQ api key as an environment variable
+Step 01: set your GROQ API key as an environment variable
 
 Step 02: run final.py code as 'python final.py' to set up the backend
 
@@ -19,5 +19,6 @@ Step 07: Run rgf.py to run its streamlit app
 
 # Important
 -modify the path to the rag folder if required.
+
 -run the files in this order to access ragas evaluation through the conversational Streamlit app.
 
