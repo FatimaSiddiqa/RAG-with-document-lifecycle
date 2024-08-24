@@ -1,7 +1,8 @@
-# RAG-based chatbot with a document lifecycle functionality
+# RAG-based chatbot with a document lifecycle functionality using Langchain and streamlit
 Manage the knowledge of your AI in real-time with the document lifecycle functionality
 See response evaluations 
 Separate admin panel to check backend status, and manage files.
+
 
 ## To run this application, follow these steps:
 
